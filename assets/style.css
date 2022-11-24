@@ -1,0 +1,30 @@
+body {
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,26,255,0.4374124649859944) 17%, rgba(255,255,255,1) 100%);
+}
+
+.form {
+    width: 100%;
+    display: block;
+}
+
+.inputValue {
+    list-style-type: none;
+}
+
+.five-day {
+    width: 18%;
+}
+
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
