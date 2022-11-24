@@ -9,10 +9,10 @@ In order to create a website that utilizes data from an api while forcing user i
 Solved how to correctly traverse through an API and utilize the exact information I need! :)
 Learned how to use fetch and then effectively and got a lot better with understanding functions!
 
-##Picture
+#Picture
 
 ![Picture of my Final Product](https://github.com/omousa98/Weather-Dashboard/blob/main/assets/Final%20Product.jpg?raw=true)
 
-##URL
+#URL
 
 My Deployed URL Link: https://omousa98.github.io/Weather-Dashboard/
